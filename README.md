@@ -1,7 +1,6 @@
 
 <div align="center">
 
-[![Hits](https://hits.sh/github.com/whifies.svg?label=mace%20attack%20!!&color=7c2ca5&labelColor=2b2a2a)](https://hits.sh/github.com/whifies/)
 <br>
 <br>
  
@@ -10,16 +9,15 @@
 
 ━━━━━━･❪ 🎕 ❫ ･━━━━━━ 
 
-<a href="https://www.tumblr.com/donsiur/807417493587099648/something-something-about-me-thinking-about-this?source=share">
-  <img width="630" src="https://github.com/user-attachments/assets/b6baa13a-c7ce-4c0d-aa9c-ad259d6799ce"/>
+<br>
+
+<a href="https://honkai-star-rail.fandom.com/wiki/Golden_Thread,_Relay_the_Savior%27s_Fate">
+<img src="https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/Trailblaze_Mission_Golden_Thread%2C_Relay_the_Savior%27s_Fate_5.png/revision/latest/scale-to-width-down/1000?cb=20250529100950" width=700/>
 </a>
 
+<br>
+<br>
+
 [rentry](https://rentry.co/whifiess)⠀︵︵✧₊ ︵︵⠀[atabook](https://whifies.atabook.org/)
-<br>
-<br>
-<a href="https://x.com/meradrop/status/2009845284076138992">
-  <img width="470" height="480" src="https://github.com/user-attachments/assets/7a89c4de-ef42-4456-968b-15c112285482" />
-</a>  
-hello phaidei
 
 </div>
